@@ -3,6 +3,10 @@
     justify-content: center;
 }
 
+.coin-row:hover {
+    opacity: 0.6;
+}
+
 .coin-row {
     display: flex;
     flex-direction: row;
